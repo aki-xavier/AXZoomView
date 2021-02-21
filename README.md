@@ -1,10 +1,5 @@
 # AXZoomView
 
-[![CI Status](https://img.shields.io/travis/Aki Petit/AXZoomView.svg?style=flat)](https://travis-ci.org/Aki Petit/AXZoomView)
-[![Version](https://img.shields.io/cocoapods/v/AXZoomView.svg?style=flat)](https://cocoapods.org/pods/AXZoomView)
-[![License](https://img.shields.io/cocoapods/l/AXZoomView.svg?style=flat)](https://cocoapods.org/pods/AXZoomView)
-[![Platform](https://img.shields.io/cocoapods/p/AXZoomView.svg?style=flat)](https://cocoapods.org/pods/AXZoomView)
-
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
