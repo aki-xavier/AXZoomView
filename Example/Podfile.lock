@@ -1,0 +1,27 @@
+PODS:
+  - AXZoomView (0.1.0)
+  - Expecta (1.0.6)
+  - Specta (1.0.7)
+
+DEPENDENCIES:
+  - AXZoomView (from `../`)
+  - Expecta
+  - Specta
+
+SPEC REPOS:
+  trunk:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  AXZoomView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AXZoomView: 1e252dac694e03903f8de881539f7f55f07164ac
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+
+PODFILE CHECKSUM: 72fc8caa1b9e3d093e51c1b6e9537472fd0ff0c2
+
+COCOAPODS: 1.10.1
